@@ -18,5 +18,5 @@ const hakan = {
   } 
  }
 ```
-[![hakan github stats](https://github-readme-stats.vercel.app/api?username=hakanciritt)](https://github.com/hakanciritt/github-readme-stats)
+[![hakan github stats](https://github-readme-stats.vercel.app/api?username=hakanciritt&show_icons=true)](https://github.com/hakanciritt/github-readme-stats)
 
