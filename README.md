@@ -6,15 +6,15 @@ const hakan = {
    name: "Hakan",
    dateOfBirth: new Date(1999,05,18),
    nationality: "Turk",
-   location : {
+   location: {
     country: "Turkey",
     city: "İstanbul",
    },
-   languages : [
+   languages: [
     {"Turkish"},
     {"English" : "A2"}
    ],
-   hobies : ["code writer", "travel", "listen to music"]
+   hobies: ["code writer", "travel", "listen to music"]
   } 
  }
 ```
