@@ -4,7 +4,7 @@
 const hakan = {
   info: {
    name: "Hakan",
-   lastName: "Cirit"
+   lastName: "Cirit",
    dateOfBirth: new Date(1999,05,18),
    nationality: "Turk",
    location: {
