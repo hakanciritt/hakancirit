@@ -1,6 +1,6 @@
 # Hakan Cirit
 
-Hi,My name is Hakan
+Hi,My name is Hakan,I'm 22 years old. I live in İstanbul , I graduated from university this year.I working as software developer at the corporate.
 
 ```javascript
 const hakan = {
