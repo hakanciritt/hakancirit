@@ -1,6 +1,6 @@
 # Hakan Cirit
 
-Hi, My name is Hakan, I'm 25 years old. I live in İstanbul. I'm graduated from Tekirdağ Namık Kemal university this year. I working as software developer in a corporate company.
+Hi, My name is Hakan, I'm 25 years old. I live in İstanbul. I'm graduated from Tekirdağ Namık Kemal university in 2021 year. I working as software developer in a corporate company.
 
 ```javascript
 const hakan = {
