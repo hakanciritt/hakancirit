@@ -17,7 +17,7 @@ const hakan = {
     {"Turkish"},
     {"English" : "A2"}
    ],
-   hobies: ["code writer", "travel", "listen to music"]
+   hobies: ["code writer", "travel", "listen to music", "fitness"]
   } 
  }
 ```
